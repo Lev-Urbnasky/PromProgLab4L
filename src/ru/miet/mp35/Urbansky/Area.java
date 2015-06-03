@@ -1,5 +1,7 @@
+package ru.miet.mp35.Urbansky;
+
 /**
- * Created by Р›РµРІ on 03.06.2015.
+ * Created by Лев on 03.06.2015.
  */
 public class Area {
     private double X;
